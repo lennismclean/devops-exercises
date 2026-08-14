@@ -1,7 +1,7 @@
 # My DevOps Journey
 
-- **Started:** _YYYY-MM-DD_
-- **GitHub:** @_your-username_
+- **Started:** August 13th, 2026
+- **GitHub:** @lennismclean
 
 > Log what you learn as you go. Commit + push to your fork after each session.
 
@@ -9,7 +9,7 @@
 
 ## 01 · Linux Fundamentals
 
-- [ ] 01 - The Terminal
+- [done] 01 - The Terminal
 - [ ] 02 - The Shell
 - [ ] 03 - Linux Commands
 - [ ] 04 - The Linux File System
@@ -19,15 +19,26 @@
 - [ ] 08 - File Permissions
 
 ### Notes & takeaways
--
+- Analyzing what you are reading is very important
+- Make in Docker is a tiny command runner
 
 ### Commands I want to remember
-```bash
+- CTRL+R
+- CD
+- ctrl-r
+- echo
+- ls -l and ls -la
+- ERROR
+- <tab>
+
+
 
 ```
 
 ### Gotchas / things that confused me
--
+-At first, setting up the exercise gave me issues
+
+
 
 ---
 
